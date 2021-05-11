@@ -1,5 +1,5 @@
 //
-//  trainPicker.swift
+//  customPicker.swift
 //  Aniki
 //
 //  Created by Wiidz on 2021/05/11.
